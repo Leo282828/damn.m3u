@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="3128" group="Movies", zee cinema
+http://watchindia.net:8880/live/69354/82115/787.ts
+#EXTINF:0 type="stream" channelId="-1", & pictures
+http://watchindia.net:8880/live/69354/82115/783.ts
+#EXTINF:0 type="stream" channelId="-1" name="MARATHI: ZEE MARATHI HD" group="AS SOUTH INDIA", ZEE MARATHI HD
+http://sansat.net:25461/fatahsaybi/IC1BSLZU0T/95849
+#EXTINF:0 type="stream" channelId="-1" name="MARATHI: ZEE TALKIES HD" group="AS SOUTH INDIA", ZEE TALKIES HD
+http://public.iptv18.tech/dhoom.php?id=8404
+#EXTINF:0 type="stream" channelId="-1" group="Marathi", Colors Marathi (1080p)
+http://sansat.net:25461/fatahsaybi/IC1BSLZU0T/95839
+#EXTINF:0 type="stream" channelId="-1" group="Hindi ENT", Colors HD (1080p)
+http://sansat.net:25461/fatahsaybi/IC1BSLZU0T/100812
+#EXTINF:0 type="stream" channelId="-1" group="Movies", Sony PIX HD
+https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Marathi" logo="https://sonypicturesnetworks.com/images/logos/Sony_MARATHI.png", sony Marathi
+https://dai.google.com/linear/hls/event/I2phC6tgTDuJngxw9gJgPw/master.m3u8
+#EXTINF:0 type="stream" channelId="530" group="Hindi ENT", SET HD
+https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
+#EXTINF:0 type="stream" channelId="3132" group="Movies", Sony MAX HD
+https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Hindi ENT", Sony SAB HD
+https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
+#EXTINF:0 type="stream" channelId="-1", SONYBBCEARTH
+https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
+#EXTINF:0 type="stream" channelId="3254" name="Star Gold HD" group="Movies", Star Gold HD
+http://public.iptv18.tech/tata.php?id=1042
+#EXTINF:0 type="stream" channelId="253", zee
+http://public.iptv18.tech/dhoom.php?id=10578
+#EXTINF:0 type="stream" channelId="-1", MTV HD
+https://allinonerebornlive.000webhostapp.com/allinone.php?id=45809
+#EXTINF:0 type="stream" channelId="-1", discovery
+https://discovery-vert.vercel.app/Discovery_Channel.m3u8
